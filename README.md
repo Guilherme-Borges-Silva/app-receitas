@@ -12,7 +12,7 @@ O app permite buscar pratos por nome, visualizar uma lista inicial de receitas e
 
 1. Clone o repositório e entre na pasta:
     
-       git clone https://github.com/nomedorepo/app-receitas.git
+       git clone https://github.com/Guilherme-Borges-Silva/app-receitas.git
        cd app-receitas
 
 2. Instale as dependências:
