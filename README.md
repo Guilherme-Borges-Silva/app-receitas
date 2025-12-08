@@ -21,7 +21,11 @@ O app permite buscar pratos por nome, visualizar uma lista inicial de receitas e
 
 3. Inicie o servidor de desenvolvimento:
     
-       npm expo start
+       npm run start
+
+    Para rodar no navegador (web):
+
+       npm run web
 
 ---
 
